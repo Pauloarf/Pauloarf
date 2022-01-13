@@ -5,17 +5,20 @@
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **Coding has over 700 languages.**
 
+##
+
 <div align="center">
   <a href="https://github.com/Pauloarf">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Pauloarf&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pauloarf&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Pauloarf&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pauloarf&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
+
+##  
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Paulo-Hs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg">
   <img align="center" alt="Paulo-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
 
-  <img align="right" alt="Paulo-pic" height="150" style="border-radius:60px;" src="https://avatars.githubusercontent.com/u/73468335?s=400&u=499c6e7c70f6860dfa9fa26c703bac8e00a84d90&v=4">
 </div>
   
   ##
