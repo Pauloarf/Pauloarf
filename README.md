@@ -37,12 +37,12 @@
 <div style="display: flex; flex-wrap: wrap;">
     <div style="flex: 50%; text-align: left; padding: 5px;">
         <a href="https://ko-fi.com/pauloarf"> 
-            <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="45" width="190" alt="pauloarf" />
+            <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="45" width="160" alt="pauloarf" />
         </a>
     </div>
     <div style="flex: 50%; padding: 5px; display: flex; flex-direction: row;">
-        <img style="flex: 1; max-width: 60%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=pauloarf&show_icons=true&theme=transparent&locale=en&layout=compact" alt="pauloarf" />
-        <img style="flex: 1; max-width: 30%;" src="https://github-readme-stats.vercel.app/api?username=pauloarf&show_icons=true&theme=transparent&locale=en" alt="pauloarf" />
+        <img style="flex: 1; max-width: 50%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=pauloarf&show_icons=true&theme=transparent&locale=en&layout=compact" alt="pauloarf" />
+        <img style="flex: 1; max-width: 50%;" src="https://github-readme-stats.vercel.app/api?username=pauloarf&show_icons=true&theme=transparent&locale=en" alt="pauloarf" />
     </div>
 </div>
 <div style="text-align: center; padding: 5px;">
