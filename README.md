@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm Paulo Ferreira</h1>
+# <center>Hi 👋, I'm Paulo Ferreira</center>
 
-<h3 align="left" style="color: black;">&nbsp;&nbsp;&nbsp;&nbsp;I am currently a student at the University of Minho in Portugal, studying Software Engineering and Computer Science. With a profound passion for both technology and gaming, I dedicate my time to exploring software and coding, and understanding their significant impact on these fields. I aspire to channel my love for gaming into creating innovative software solutions that can be applied not only in gaming but also in other areas.</h3>
-
+&nbsp;&nbsp;&nbsp;&nbsp;I am currently a student at the University of Minho in Portugal, studying Software Engineering and Computer Science. With a profound passion for both technology and gaming, I dedicate my time to exploring software and coding, and understanding their significant impact on these fields. I aspire to channel my love for gaming into creating innovative software solutions that can be applied not only in gaming but also in other areas.
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pauloarf&label=Profile%20views&color=0e75b6&style=plastic" alt="pauloarf" /> </p>
