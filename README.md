@@ -41,7 +41,7 @@
     </div>
     <div style="flex: 50%; padding: 5px; display: flex; flex-direction: row;">
         <img style="flex: 1; max-width: 45%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=pauloarf&show_icons=true&theme=transparent&locale=en&layout=compact" alt="pauloarf" />
-        <img style="flex: 1; max-width: 50%;" src="https://github-readme-stats.vercel.app/api?username=pauloarf&show_icons=true&theme=transparent&locale=en" alt="pauloarf" />
+        <img style="flex: 1; max-width: 45%;" src="https://github-readme-stats.vercel.app/api?username=pauloarf&show_icons=true&theme=transparent&locale=en" alt="pauloarf" />
     </div>
 </div>
 <div style="text-align: left; padding: 10px;">
