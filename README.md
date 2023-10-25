@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pauloarf&label=Profile%20views&color=0e75b6&style=plastic" alt="pauloarf" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pauloarf" alt="pauloarf" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pauloarf&theme=discord&column=5&margin-w=15" alt="pauloarf" /></a> </p>
 
 
 - 🌱 I’m currently learning **low-level and high-level languages, and their aplications**
