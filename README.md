@@ -34,16 +34,16 @@
 
 <h3 align="left">Support:</h3>
 <div style="display: flex; flex-wrap: wrap;">
-    <div style="flex: 50%; text-align: left; padding: 5px;">
+    <div style="flex: 50%; text-align: left; padding: 25px;">
         <a href="https://ko-fi.com/pauloarf"> 
             <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="45" width="160" alt="pauloarf" />
         </a>
     </div>
-    <div style="flex: 50%; padding: 5px; display: flex; flex-direction: row;">
+    <div style="flex: 50%; padding: 10px; display: flex; flex-direction: row;">
         <img style="flex: 1; width: 45%;" src="https://github-readme-stats.vercel.app/api?username=pauloarf&show_icons=true&theme=transparent&locale=en" alt="pauloarf" />
-        <img style="flex: 1; width: 55%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=pauloarf&show_icons=true&theme=transparent&locale=en&layout=compact" alt="pauloarf" />
+        <img style="flex: 1; width: 45%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=pauloarf&show_icons=true&theme=transparent&locale=en&layout=compact" alt="pauloarf" />
     </div>
 </div>
-<div style="text-align: center; padding: 5px;">
-    <img style="max-width: 100%;" src="https://github-readme-streak-stats.herokuapp.com/?user=pauloarf&theme=transparent" alt="pauloarf" />
+<div style="text-align: left; padding: 10px;">
+    <img style="max-width: 80%;" src="https://github-readme-streak-stats.herokuapp.com/?user=pauloarf&theme=transparent" alt="pauloarf" />
 </div>
