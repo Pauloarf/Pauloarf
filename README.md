@@ -1,40 +1,42 @@
-<h1 align="center">Hello Everyone! 😊 </h1>
+<h1 align="center">Hi 👋, I'm Paulo Ferreira</h1>
+<h3 align="center">I am currently a student at the University of Minho in Portugal, studying Software Engineering and Computer Science. With a profound passion for both technology and gaming, I dedicate my time to exploring software and coding, and understanding their significant impact on these fields. I aspire to channel my love for gaming into creating innovative software solutions that can be applied not only in gaming but also in other areas.</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pauloarf&label=Profile%20views&color=0e75b6&style=plastic" alt="pauloarf" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pauloarf" alt="pauloarf" /></a> </p>
 
 
+- 🌱 I’m currently learning **low-level and high-level languages, and their aplications**
 
-- 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: **Coding has over 700 languages.**
+- 👨‍💻 All of my projects are available at [...](...)
 
-##
+- 📝 I regularly write articles on [...](...)
 
-<div align="center">
-  <a href="https://github.com/Pauloarf">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Pauloarf&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pauloarf&layout=compact&langs_count=7&theme=github_dark"/>
-</div>
+- 💬 Ask me about **gaming, anime, or coding**
 
-##  
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Paulo-Hs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg">
-  <img align="center" alt="Paulo-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" alt="Paulo-java" heigh="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-          
-</div>
-  
-  ##
- 
-<div> 
-  <a href="https://www.youtube.com/channel/UCw9eN2K1D8CegCrp-PDBGkg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/pauloferreira_a/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://twitter.com/pauloarf2" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-  <a href="https://www.twitch.tv/pauloarf" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/eSUZhYqaFx" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:pauloferreira.vnc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/paulo-ferreira-120004237/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- 
-  ![Snake animation](https://github.com/Pauloarf/Pauloarf/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+- 📫 How to reach me **pauloferreira.vnc@gmail.com**
 
-  
+- 📄 Know about my experiences [...](...)
+
+- ⚡ Fun fact **Coding has over 700 languages.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/pauloarf2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pauloarf2" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/paulo-ferreira-120004237/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paulo ferreira" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100003629739362&locale=pt_PT" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="paulo ferreira" height="30" width="40" /></a>
+<a href="https://instagram.com/pauloferreira_a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pauloferreira_a" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@pauloarf1042" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="pauloarf" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.haskell.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<h3 align="left">Support:</h3>
+<p><a href="https://ko-fi.com/pauloarf"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="pauloarf" /></a></p><br><br>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pauloarf&show_icons=true&theme=transparent&locale=en&layout=compact" alt="pauloarf" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pauloarf&show_icons=true&theme=transparent&locale=en" alt="pauloarf" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pauloarf&theme=transparent" alt="pauloarf" /></p>
