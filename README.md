@@ -40,8 +40,8 @@
         </a>
     </div>
     <div style="flex: 50%; padding: 5px; display: flex; flex-direction: row;">
-        <img style="flex: 1; width: 55%;" src="https://github-readme-stats.vercel.app/api?username=pauloarf&show_icons=true&theme=transparent&locale=en" alt="pauloarf" />
-        <img style="flex: 1; width: 65%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=pauloarf&show_icons=true&theme=transparent&locale=en&layout=compact" alt="pauloarf" />
+        <img style="flex: 1; width: 45%;" src="https://github-readme-stats.vercel.app/api?username=pauloarf&show_icons=true&theme=transparent&locale=en" alt="pauloarf" />
+        <img style="flex: 1; width: 55%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=pauloarf&show_icons=true&theme=transparent&locale=en&layout=compact" alt="pauloarf" />
     </div>
 </div>
 <div style="text-align: center; padding: 5px;">
