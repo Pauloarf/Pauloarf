@@ -40,12 +40,12 @@
         </a>
     </div>
     <div style="flex: 50%; padding: 5px;">
-        <img style="width: 45%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=pauloarf&show_icons=true&theme=transparent&locale=en&layout=compact" alt="pauloarf" />
+        <img style="width: 80%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=pauloarf&show_icons=true&theme=transparent&locale=en&layout=compact" alt="pauloarf" />
     </div>
     <div style="flex: 50%; padding: 5px;">
-        <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=pauloarf&show_icons=true&theme=transparent&locale=en" alt="pauloarf" />
+        <img style="max-width: 80%;" src="https://github-readme-stats.vercel.app/api?username=pauloarf&show_icons=true&theme=transparent&locale=en" alt="pauloarf" />
     </div>
 </div>
-<div style="text-align: center; padding: 5px;">
-    <img style="max-width: 100%;" src="https://github-readme-streak-stats.herokuapp.com/?user=pauloarf&theme=transparent" alt="pauloarf" />
+<div style="text-align: left; padding: 5px;">
+    <img style="max-width: 80%;" src="https://github-readme-streak-stats.herokuapp.com/?user=pauloarf&theme=transparent" alt="pauloarf" />
 </div>
