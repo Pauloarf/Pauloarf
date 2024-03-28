@@ -14,7 +14,7 @@
 
 - 📝 I regularly write articles on [...](...)
 
-- 💬 Ask me about **gaming, anime, or coding**
+- 💬 Ask me about **Gaming, anime, or coding**
 
 - 📫 How to reach me **pauloferreira.vnc@gmail.com**
 
