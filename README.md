@@ -51,6 +51,7 @@
 <div style="display: flex; flex-wrap: wrap;">
     <div style="flex: 50%; padding: 10px; display: flex; flex-direction: row;">
         <img style="flex: 1; width: 45%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=pauloarf&show_icons=true&theme=transparent&locale=en&layout=compact&hide=Python" alt="pauloarf" />
-    <img style="max-width: 63%;" src="https://github-readme-streak-stats.herokuapp.com/?user=pauloarf&theme=transparent" alt="pauloarf" />
+        <img style="max-width: 63%;" src="https://github-readme-streak-stats.herokuapp.com/?user=pauloarf&theme=transparent" alt="pauloarf" />
+    </div>
 </div>
-
+</p>
