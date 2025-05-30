@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=A2F2F7&center=true&vCenter=true&width=435&lines=Yo%2C+I'm+Paulo!!!;I'm+a+Software+Engineer!;Welcome+to+my+dev+journey!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=A2F2F7&center=true&vCenter=true&width=435&lines=Yo%2C+I'm+Paulo!;Software+Engineer!;Here+you+can+find+my+work!)](https://git.io/typing-svg)
+
+---
 
 # 💫 About Me:
 🌱 I’m currently learning low-level and high-level languages, and their aplications<br>👨‍💻 All of my projects are available at ...<br>💬 Ask me about Gaming, anime, or coding<br>📫 How to reach me: pauloferreira.vnc@gmail.com<br>⚡ Fun fact Coding has over 700 languages.
@@ -13,5 +15,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pauloarf&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+
 [![](https://visitcount.itsvg.in/api?id=Pauloarf&icon=5&color=0)](https://visitcount.itsvg.in)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=10&pause=1000&color=A2F2F7&center=true&vCenter=true&width=443&lines=Built+to+play%2C+made+to+win.+%F0%9F%8E%AE;Code+your+next+adventure.+%F0%9F%95%B9%EF%B8%8F;Pixel+by+pixel%2C+dream+becomes+game.+%F0%9F%94%A5)](https://git.io/typing-svg)
