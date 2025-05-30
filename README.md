@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A2F2F7&center=true&vCenter=true&width=435&lines=Yo%2C+I'm+Paulo!!!;I'm+a+software+engineer;Welcome+to+my+dev+journey!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=A2F2F7&center=true&vCenter=true&width=435&lines=Yo%2C+I'm+Paulo!!!;I'm+a+software+engineer;Welcome+to+my+dev+journey!)](https://git.io/typing-svg)
 
 # 💫 About Me:
 🌱 I’m currently learning low-level and high-level languages, and their aplications<br>👨‍💻 All of my projects are available at ...<br>💬 Ask me about Gaming, anime, or coding<br>📫 How to reach me: pauloferreira.vnc@gmail.com<br>⚡ Fun fact Coding has over 700 languages.
