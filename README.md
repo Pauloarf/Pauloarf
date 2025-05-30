@@ -1,4 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=A2F2F7&center=true&vCenter=true&width=435&lines=Yo%2C+I'm+Paulo!;Software+Engineer!;Here+you+can+find+my+work!)](https://git.io/typing-svg)
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=A2F2F7&center=true&vCenter=true&width=435&lines=Yo%2C+I'm+Paulo!;Software+Engineer!;Here+you+can+find+my+work!" alt="Typing SVG" /></a>
+</p>
 
 ---
 
@@ -18,4 +21,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=Pauloarf&icon=5&color=0)](https://visitcount.itsvg.in)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=10&pause=1000&color=A2F2F7&center=true&vCenter=true&width=443&lines=Built+to+play%2C+made+to+win.+%F0%9F%8E%AE;Code+your+next+adventure.+%F0%9F%95%B9%EF%B8%8F;Pixel+by+pixel%2C+dream+becomes+game.+%F0%9F%94%A5)](https://git.io/typing-svg)
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=A2F2F7&center=true&vCenter=true&width=443&lines=Built+to+play%2C+made+to+win.+%F0%9F%8E%AE;Code+your+next+adventure.+%F0%9F%95%B9%EF%B8%8F;Pixel+by+pixel%2C+dream+becomes+game.+%F0%9F%94%A5" alt="Typing SVG" /></a>
+</p>
