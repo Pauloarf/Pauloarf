@@ -6,7 +6,7 @@
 ---
 
 # 💫 About Me:
-🌱 I’m currently learning low-level and high-level languages, and their aplications<br>👨‍💻 All of my projects are available at ...<br>💬 Ask me about Gaming, anime, or coding<br>📫 How to reach me: pauloferreira.vnc@gmail.com<br>⚡ Fun fact Coding has over 700 languages.
+🌱 I’m currently doing a Master's in Computer Graphics/Computer Vision and Distributed Systems. <br>👨‍💻 All of my projects are available at ...<br>📫 How to reach me: pauloferreira.vnc@gmail.com<br>⚡ Fun fact Coding has over 700 languages.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/4jrMp5zA77) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pauloferreira_a) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pauloarf) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/pauloarf2) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pauloferreira.vnc@gmail.com) 
