@@ -22,12 +22,16 @@
 
 ## 🚀 Archived Projects Overview
 
+## 🚀 Archived Favorite Projects Overview
+
 | Course / Class | Project Repository | Description |
 |---|---|---|
-| Computer Graphics | [mini-3d-engine](https://github.com/Pauloarf/mini-3d-engine) | Scene-graph 3D engine with geometry primitives, Bézier surfaces, and third-person camera |
-| Distributed Systems | [in-memory-kv-store](https://github.com/Pauloarf/in-memory-kv-store) | In-memory distributed key-value store supporting atomic multiGet / multiPut |
-| Human-Computer Interaction / IPM | [course-shift-manager](https://github.com/Pauloarf/course-shift-manager) | UI for managing university shifts with human-centered design and heuristics |
-| … | … | … |
+| Computer Graphics | [Project_CG](https://github.com/Pauloarf/Project_CG) | A modular scene-graph-based 3D engine developed in phases, featuring hierarchical transformations, geometric primitives, Bézier surfaces, animations, VBO-based rendering, third-person camera, and XML-configurable demo scenes. Core focus on 3D engine architecture, graphics pipeline, math foundations, and incremental development. |
+| Laboratórios de Informática III | [Project-LI3](https://github.com/Pauloarf/Project-LI3) | Flight and Reservation Management System in C, supporting batch and interactive modes for querying flights, passengers, and reservations. Focus on modularization, dynamic data structures, validation, performance measurement, and file-based output handling. |
+| Operating Systems | [Project-SO](https://github.com/Pauloarf/Project-SO) | Task Orchestration System in C for scheduling and executing user-submitted tasks. Implements process creation, inter-process communication via named pipes, task status tracking, parallel execution, logging, and performance evaluation with scheduling policies. |
+| Laboratórios de Informática IV | [Project-LI4](https://github.com/Pauloarf/Project-LI4) | MineBuilds, a Minecraft construction management application (phase 1), focusing on system analysis, requirement specification, architectural planning, data modeling, and interface prototyping with a future Blazor-based implementation. |
+| Web Engineering 2025 | [EngWeb2025-A96268](https://github.com/Pauloarf/EngWeb2025-A96268/tree/main/Projeto_Compilador) | O Meu Eu Digital: A full-stack digital diary web application for organizing user content chronologically and semantically, with secure authentication, role-based access, SIP/AIP management, file storage with SHA256 checksums, and modular deployment using Docker. |
+
 
 
 
