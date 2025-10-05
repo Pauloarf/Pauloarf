@@ -20,6 +20,17 @@
 
 ---
 
+## 🚀 Archived Projects Overview
+
+| Course / Class | Project Repository | Description |
+|---|---|---|
+| Computer Graphics | [mini-3d-engine](https://github.com/Pauloarf/mini-3d-engine) | Scene-graph 3D engine with geometry primitives, Bézier surfaces, and third-person camera |
+| Distributed Systems | [in-memory-kv-store](https://github.com/Pauloarf/in-memory-kv-store) | In-memory distributed key-value store supporting atomic multiGet / multiPut |
+| Human-Computer Interaction / IPM | [course-shift-manager](https://github.com/Pauloarf/course-shift-manager) | UI for managing university shifts with human-centered design and heuristics |
+| … | … | … |
+
+
+
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=A2F2F7&center=true&vCenter=true&width=443&lines=Built+to+play%2C+made+to+win.+%F0%9F%8E%AE;Code+your+next+adventure.+%F0%9F%95%B9%EF%B8%8F;Pixel+by+pixel%2C+dream+becomes+game.+%F0%9F%94%A5" alt="Typing SVG" /></a>
